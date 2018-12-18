@@ -1,0 +1,5 @@
+{
+  "version": 2,
+  "name": "twitter-bot",
+  "builds": [{ "src": "bot.js", "use": "@now/node" }]
+}
